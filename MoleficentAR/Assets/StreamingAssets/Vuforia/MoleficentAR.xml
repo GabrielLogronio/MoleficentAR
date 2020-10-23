@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="GameSquareTarget" size="21.000000 21.000000" />
+    <ImageTarget name="GameTarget" size="10.000000 7.070707" />
+    <CylinderTarget name="CylinderTarget" sideLength="21.000000"/>
+  </Tracking>
+</QCARConfig>
